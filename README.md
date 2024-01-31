@@ -1,2 +1,0 @@
-# Lab
-lab de compu
